@@ -1,5 +1,5 @@
 # Bonnie & Clyde Rock Club
-[Image](/b&c.jpg)
+![Image](/b&c.jpg)
 ### Inaugurazione 13/04/2018
 ## Rock Club Privato riservato ai soli soci **[ANCoS](https://www.ancos.it)**
 
