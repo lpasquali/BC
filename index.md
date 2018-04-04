@@ -16,6 +16,7 @@ possibile arrivare in macchina e/o parcheggiare davanti o nelle vie limitrofe al
 
 <iframe width="600" height="450" frameborder="0" style="border:0"
 src="https://www.google.com/maps/embed/v1/place?q=place_id:ChIJY4U49L-LKhMRE4oRq26Yc3E&key=AIzaSyBKfQTyFoYSaKGkdsYmrIxTTBHtixd1k7Y" allowfullscreen></iframe>
+<meta name="google-site-verification" content="9xS_bSrlZd6x8JfW29B9LzddPCc9TJBuzzTYK_TvCto" />
 
 Come si può notare questo sito è ospitato da GitHub Pages,
 drink gratuiti in cambio di patch e pull requests.
