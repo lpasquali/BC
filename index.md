@@ -5,7 +5,7 @@
 
 *Il locale è situato nella ZTL del Comune di Pistoia
 per tanto salvo per i residenti del quartiere non è
-possibile arrivare in macchina davanti al club.*
+possibile arrivare in macchina e/o parcheggiare davanti o nelle vie limitrofe al club si veda: [Parcheggi consigliati](parcheggi.md).*
 
 - Indirizzo:
 - [Via della Madonna 32](https://goo.gl/maps/vTh4qfL1oKM2)
