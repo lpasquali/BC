@@ -17,3 +17,5 @@ possibile arrivare in macchina davanti al club.*
 
 <iframe width="600" height="450" frameborder="0" style="border:0"
 src="https://www.google.com/maps/embed/v1/place?q=place_id:ChIJY4U49L-LKhMRE4oRq26Yc3E&key=AIzaSyBKfQTyFoYSaKGkdsYmrIxTTBHtixd1k7Y" allowfullscreen></iframe>
+
+> I decided to put the simple site of my non-profit music club here among my projects on [github.com](https://github.com/lpasquali) to learn at best mark down language, getting feedbacks from real humans drinking at my [Club](http://bonnieandclyde.club)
