@@ -6,14 +6,15 @@
 
 *Il locale è situato nella ZTL del Comune di Pistoia
 per tanto salvo per i residenti del quartiere non è
-possibile arrivare in macchina e/o parcheggiare davanti o nelle vie limitrofe al club si veda: [Parcheggi consigliati](parcheggi.md).*
+possibile arrivare in macchina e/o parcheggiare 
+davanti o nelle vie limitrofe al club si veda: 
+[Parcheggi consigliati](parcheggi.md).*
 
 - Indirizzo: [Via della Madonna 32](mappa.md), 51100, Pistoia (PT)
 - Email: info@bonnieandclyde.club
 - Telefono +39 0573 23995
 - [Facebook](https://www.facebook.com/BCRockClub)
-- [Twitter]()
-- [Istagram]()
+- [Instagram](https://www.instagram.com/bonnieandclydeclub/)
 
 
 Come si può notare questo sito è ospitato da GitHub Pages,
